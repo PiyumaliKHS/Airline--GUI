@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Huli\Emirates\Emirates\bin\Debug\Emirates.exe.config
+C:\Users\user\Desktop\Huli\Emirates\Emirates\obj\Debug\Emirates.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Huli\Emirates\Emirates\obj\Debug\Emirates.dashboard.resources
+C:\Users\user\Desktop\Huli\Emirates\Emirates\obj\Debug\Emirates.Display_Flights.resources
+C:\Users\user\Desktop\Huli\Emirates\Emirates\obj\Debug\Emirates.Display_passenger.resources
+C:\Users\user\Desktop\Huli\Emirates\Emirates\obj\Debug\Emirates.Flight.resources
+C:\Users\user\Desktop\Huli\Emirates\Emirates\obj\Debug\Emirates.Form1.resources
+C:\Users\user\Desktop\Huli\Emirates\Emirates\obj\Debug\Emirates.passenger.resources
+C:\Users\user\Desktop\Huli\Emirates\Emirates\obj\Debug\Emirates.Properties.Resources.resources
+C:\Users\user\Desktop\Huli\Emirates\Emirates\obj\Debug\Emirates.Ticket.resources
+C:\Users\user\Desktop\Huli\Emirates\Emirates\obj\Debug\Emirates.welcome.resources
+C:\Users\user\Desktop\Huli\Emirates\Emirates\obj\Debug\Emirates.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Huli\Emirates\Emirates\bin\Debug\Emirates.exe
+C:\Users\user\Desktop\Huli\Emirates\Emirates\bin\Debug\Emirates.pdb
+C:\Users\user\Desktop\Huli\Emirates\Emirates\obj\Debug\Emirates.exe
+C:\Users\user\Desktop\Huli\Emirates\Emirates\obj\Debug\Emirates.pdb
